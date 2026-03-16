@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Möller;Stefan;;;
+FN:Stefan Möller
+ORG:Simon Moos A/S
+ADR;TYPE=WORK:Kallehave 33, 6400 Sønderborg, Denmark
+TITLE:International sales
+TEL;TYPE=CELL:+45 50739375
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:sm@simonmoos.com
+URL;TYPE=Digital Business Card:
+URL:https://simonmoos.com/
+URL;TYPE=Website:https://simonmoos.com/
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/stefan-m%C3%B6ller-11a542197/
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+END:VCARD
