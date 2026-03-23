@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Kjehr;Kim;;;
+FN:Kim Kjehr
+ORG:Simon Moos A/S
+ADR;TYPE=WORK:Kallehave 33, 6400 Sønderborg, Denmark
+TITLE:Area Sales Manager
+TEL;TYPE=CELL:+45 66 46 28 14
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:kj@simonmoos.com
+URL;TYPE=Digital Business Card:
+URL:https://simonmoos.com/
+URL;TYPE=Website:https://simonmoos.com/
+URL;TYPE=LinkedIn:https://www.linkedin.com/company/simon-moos-a-s/
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+END:VCARD
